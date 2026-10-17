@@ -1,3 +1,6 @@
+# Description
+Repository 📦 with base code to implement a Backend for Frontend (BFF) 🔀 using GraphQL as a query language.
+
 # Tutorial 9 - Backend for Frontends (BFFs)
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&repo=MISW4406/tutorial-9-bff) 
